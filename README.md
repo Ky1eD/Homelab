@@ -19,28 +19,28 @@ Project consists of making my Home lab.
 <h2>Walk-through:</h2>
 
 <p align="center">
-Download the OSI File for Windows Server 2016. To get a copy of Windows Server you have to fill out some information that Microsoft requires. <br/>
+Download the OSI File for Windows Server 2016. To get a copy of Windows Server you have to fill out some information that Microsoft requires: <br/>
 <img src="https://i.imgur.com/XikGkT9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Next after you need to install Virtualbox then create a VM. You have to select the ISO file that you downloaded from Microsofts website then you can name the VM what ever you please. <br/>
+Next after you need to install Virtualbox then create a VM. You have to select the ISO file that you downloaded from Microsofts website then you can name the VM what ever you please: <br/>
 <img src="https://i.imgur.com/rZGZwrz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-In Rufus Select your USB for the Device and correct ISO file for your boot selection and click start: <br/>
+Now you need to create a username, password and hostname:  <br/>
+<img src="https://i.imgur.com/NFsIVyg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Then you have to configure the ammount of hardware you want to use for the VM. I chose 4 cpu cores and 8gb of ram because my computer has the resources to allow me to do so and I prefer to have fast snappy VMs: <br/>
+<img src="https://i.imgur.com/cxmIIjG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Now you have to create a virtual hard disk. I don't plan on storing a lot of data on this VM if at all so im going to stick to the default:  <br/>
+<img src="https://i.imgur.com/9ljPRtY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+:  <br/>
 <img src="https://i.imgur.com/MFwuVC5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Next on the devive you want to dual boot on. Go to Disk Management :  <br/>
-<img src="https://i.imgur.com/pM2iHxU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Next you need to shrink part of your drive to be able to install the OS and any files you need for it. I chose to give it 200gb, because I don't exatctly know what Im going to use it for yet but you should give it atleast 40gb of space:  <br/>
-<img src="https://i.imgur.com/MFwuVC5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-After you do that plug in the USB drive and restart and go into BIOS:  <br/>
-<img src="https://i.imgur.com/pPsxrBw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Make the USB drive your first boot option and turn off secure boot:  <br/>
