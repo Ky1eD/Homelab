@@ -48,14 +48,14 @@ Then select the drive you made in vitrualbox:  <br/>
 <img src="https://i.imgur.com/DWpRvEG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-After you do that plug in the USB drive and restart and go into BIOS:  <br/>
-<img src="https://i.imgur.com/pPsxrBw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+It will now finally start installing and will restart after:  <br/>
+<img src="https://i.imgur.com/tcWaXbb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Then save it then leave bios to boot into the Kali Linux Install and go through the install proccess:  <br/>
-<img src="https://i.imgur.com/kLjBteq.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now after it restarted and booted into it you need to make a password for the admin account so you can sign in:  <br/>
+<img src="https://i.imgur.com/tmljDle.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Lastly after installing the OS you wanted to dual boot into take out the USB drive and then you are all done:  <br/>
-<img src="https://i.imgur.com/SZUla49.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Then you have Windows Server 2016 installed on your VM:  <br/>
+<img src="https://i.imgur.com/SFtpaVK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
