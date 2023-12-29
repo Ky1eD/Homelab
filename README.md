@@ -39,8 +39,8 @@ Now you have to create a virtual hard disk. I don't plan on storing a lot of dat
 <img src="https://i.imgur.com/9ljPRtY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-:  <br/>
-<img src="https://i.imgur.com/MFwuVC5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lastly You can finish making the VM:  <br/>
+<img src="https://i.imgur.com/BxY6j2T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Make the USB drive your first boot option and turn off secure boot:  <br/>
