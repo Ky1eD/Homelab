@@ -24,7 +24,7 @@ Firstly I downloaded the OSI File for Windows Server 2016. To get a copy of Wind
 <br />
 <br />
 Then I created a VM in VirtualBox which you can see my guide here:
- - [Creating a VM in VitrualBox](https://github.com/Ky1eD/DualBootSetupLab)<br/>
+ - [Creating a VM in VitrualBox](https://github.com/Ky1eD/Virtual-Box-VM-Guide)<br/>
 <img src="https://i.imgur.com/BxY6j2T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
