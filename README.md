@@ -19,12 +19,12 @@ Project consists of making my Home lab.
 <h2>Walk-through:</h2>
 
 <p align="center">
-Download the OSI File for Windows Server 2016. To get a copy of Windows Server you have to fill out some information that Microsoft requires: <br/>
+Firstly I downloaded the OSI File for Windows Server 2016. To get a copy of Windows Server you have to fill out some information that Microsoft requires: <br/>
 <img src="https://i.imgur.com/XikGkT9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Next after you need to install Virtualbox then create a VM. You have to select the ISO file that you downloaded from Microsofts website then you can name the VM what ever you please: <br/>
-<img src="https://i.imgur.com/rZGZwrz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Then I created a VM in Virtual Box which you can see my guide here: <br/>
+<img src="https://i.imgur.com/BxY6j2T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Now you need to create a username, password and hostname:  <br/>
