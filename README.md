@@ -24,28 +24,28 @@ Firstly I downloaded the OSI File for Windows Server 2016. To get a copy of Wind
 <br />
 <br />
 Then I created a VM in VirtualBox which you can see my guide here:
- - [Creating a VM in VitrualBox](https://github.com/Ky1eD/Virtual-Box-VM-Guide)<br/>
+ - (https://github.com/Ky1eD/Virtual-Box-VM-Guide) <br/>
 <img src="https://i.imgur.com/BxY6j2T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Now you need to create a username, password and hostname:  <br/>
-<img src="https://i.imgur.com/NFsIVyg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now once you bootup to the VM and it loads the OS download. You can select the language, time, and keyboard you want:  <br/>
+<img src="https://i.imgur.com/Z06dEPN.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Then you have to configure the ammount of hardware you want to use for the VM. I chose 4 cpu cores and 8gb of ram because my computer has the resources to allow me to do so and I prefer to have fast snappy VMs: <br/>
-<img src="https://i.imgur.com/cxmIIjG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Next you need to click "Intall Now" then this page will appear after. After I chose the version of Windows Server 2016 I wanted(Standard Evaluation Desktop experience): <br/>
+<img src="https://i.imgur.com/YtbBelG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Now you have to create a virtual hard disk. I don't plan on storing a lot of data on this VM if at all so im going to stick to the default:  <br/>
-<img src="https://i.imgur.com/9ljPRtY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Then accept license terms and click next:  <br/>
+<img src="https://i.imgur.com/5oVZNHG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Lastly You can finish making the VM:  <br/>
-<img src="https://i.imgur.com/BxY6j2T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now select custom install since this machine had no OS to begin with to upgrade:  <br/>
+<img src="https://i.imgur.com/If7vFKM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Make the USB drive your first boot option and turn off secure boot:  <br/>
-<img src="https://i.imgur.com/uLN0eCA.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Then select the drive you made in vitrualbox:  <br/>
+<img src="https://i.imgur.com/DWpRvEG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 After you do that plug in the USB drive and restart and go into BIOS:  <br/>
